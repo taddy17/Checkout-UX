@@ -1,0 +1,5 @@
+{
+  "name": "Secure Crypto Checkout",
+  "description": "A secure and user-friendly checkout interface for making payments with traditional methods or cryptocurrency, designed to replicate the Coinflow checkout experience.",
+  "requestFramePermissions": []
+}
